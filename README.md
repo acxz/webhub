@@ -9,4 +9,5 @@ I was inspired by the [Startpage Emporium](https://startpages.github.io) and edi
 The simplest way is to clone this git directory and have your browser redirect its home and new tab page to the html file.
 
 ## Screenshot
-![webhub](https://u.teknik.io/4BM1Q.png)
+![webhub](https://github.com/AkashPatel435/webhub/blob/master/startshot.png)
+https://u.teknik.io/dmANk.png
