@@ -10,4 +10,4 @@ The simplest way is to clone this git directory and have your browser redirect i
 
 ## Screenshot
 ![webhub](https://github.com/AkashPatel435/webhub/blob/master/startshot.png)
-![webhub1](https://u.teknik.io/dmANk.png)
+![View Full Image](https://u.teknik.io/dmANk.png)
