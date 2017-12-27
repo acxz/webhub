@@ -5,7 +5,7 @@ body {
 	background-color: $color0;
 	margin: 0;
 	padding: 0;
-	font-family: "Termite (TTF)", monospace;
+	font-family: "Fira Mono", monospace;
 }
 .pageContainer {
 	height: 100%;
@@ -73,10 +73,10 @@ body {
     transition:.4s ease-out;
 }
 .boxHeader {
-	font-size: 20pt;
+	font-size: 20px;
 	text-align: center;
 	vertical-align: middle;
-	height: 30px;
+	height: 25px;
 	color: #000000;
 }
 #boxHeader1 {
@@ -154,7 +154,7 @@ ul {
 	list-style-type: none;
 	text-align: middle;
 	padding: 0;
-    font-size: 14pt;
+    font-size: 16px;
 }
 
 @media only screen and (max-width: 871px) {
@@ -187,7 +187,7 @@ ul {
 	-webkit-box-shadow: 7px 7px 5px 1px rgba(0,0,0,0.6);
 	-moz-box-shadow: 7px 7px 5px 1px rgba(0,0,0,0.6);
 	box-shadow: 7px 7px 5px 1px rgba(0,0,0,0.6);
-	font-size: 14pt;
+	font-size: 16pt;
 	color: #afffa3;
 	outline: $color6 solid 4px;
 }
